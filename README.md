@@ -1,4 +1,4 @@
-# Halo semua! 
+# Halo! 
 
 Perkenalkan nama saya **Dwi Aji Prasetyo**.
 
