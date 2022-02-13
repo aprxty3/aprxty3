@@ -2,14 +2,14 @@
 
 A candidate independent Software Engineer who loves to create and share projects about IoT and mobile technology! I've enjoyed Flutter and make it the main language in creating a project.
 
-- 🌱 I’m currently learning about Mobile Apps
-- ⚡ Next i'll learn about Golang
+- 🌱 I’m currently learning about Mobile Apps with Flutter
+- ⚡ Next i'll learn about Swift for iOS
 - 💬 Feel free to ask me about IoT or Flutter
 - 📫 How to reach me: ajiprxty3@gmail.com
 
 
 ### Tech Stack
-  <a href="https://go.dev/"><img align="left" alt="Golang" title="Golang" width="21px" src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" /></a>
+  <a href="https://swift.org/"><img align="left" alt="Swift" title="Swift" width="21px" src="https://www.shareicon.net/data/2016/07/08/117368_apple_512x512.png" /></a>
   <a href="https://www.arduino.cc/"><img align="left" alt="Arduino" title="Arduino" width="21px" src="https://i0.wp.com/www.nesabamedia.com/wp-content/uploads/2019/07/Arduino-IDE-Logo-1.png?resize=418%2C418&ssl=1" /></a>
   <a href="https://flutter.dev/"><img align="left" alt="Hapi" title="Flutter" width="21px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" /></a>
   <a href="https://dart.dev/"><img align="left" alt="Next" title="Dart" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" /></a>
