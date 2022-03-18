@@ -2,7 +2,7 @@
 
 A candidate independent Software Engineer who loves to create and share projects about IoT and mobile technology! I've enjoyed Flutter and make it the main language in creating a project.
 
-- 🌱 I’m currently learning about Mobile Apps with Flutter
+- 🌱 I’m currently learning about Mobile Apps with Flutter(GetX)
 - 🤔 InsyaAllah 1 month = 1 mini/medium project
 - ⚡ Next i'll learn about Swift for iOS
 - 💬 Feel free to ask me about IoT or Flutter (but i'm newbie on Flutter hehe)
