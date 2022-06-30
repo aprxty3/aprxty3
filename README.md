@@ -6,7 +6,7 @@ A candidate independent Software Engineer who loves to create and share projects
 - 🤔 InsyaAllah 1 month = 1 mini/medium project
 - ⚡ Next i'll learn about Swift for iOS
 - 💬 Feel free to ask me about IoT or Flutter (but i'm newbie on Flutter hehe)
-- 📫 How to reach me: ajiprxty3@gmail.com
+- 📫 How to reach me: ksana.in/Aprxty3
 
 
 ### Tech Stack
