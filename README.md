@@ -25,9 +25,4 @@ A candidate independent Software Engineer who loves to create and share projects
 </a>
 </p>
 
-### Reach me on
-- <a href="https://www.linkedin.com/in/ajiprasetyo43/">LinkedIn</a>
-- ajiprxty3@gmail.com
-- <a href="https://twitter/aprxty">Twitter</a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aprxty3&label=Profile%20views&color=0e75b6&style=flat" alt="aprxty3" /> </p>
