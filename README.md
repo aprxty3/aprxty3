@@ -1,6 +1,7 @@
 ### Hi! 👋 I'm Aji Prasetyo.
 
-A Software Engineer who loves to create and share projects about MicroControl Project(IoT) and Mobile Technology! I've enjoyed C++ (for MicroController Project) & Flutter to make it the main language in creating a project.
+A Software Engineer who loves to create and share projects about MicroControl Project(IoT) and Mobile Technology! 
+I've enjoyed C++ (for MicroController Project) & Flutter to make it the main language in creating a project.
 
 - 🌱 I’m currently learning about Mobile Apps with Flutter(GetX)
 - 🤔 InsyaAllah 1 month = 1 mini/medium project
