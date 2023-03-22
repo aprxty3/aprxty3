@@ -2,10 +2,10 @@
 
 A Software Engineer who loves to create and share projects about MicroControl Project(IoT) and Mobile Technology!  I've enjoyed C++ (for MicroController Project) & Flutter to make it the main language in creating a project.
 
-- 🌱 I’m currently learning about Mobile Apps with Flutter(GetX)
-- 🤔 InsyaAllah 1 month = 1 mini/medium project
-- ⚡ Next i'll learn about Swift for iOS
-- 💬 Feel free to ask me about IoT or Flutter (but i'm newbie on Flutter hehe)
+- 🔭 I’m working as Backend engineer using Golang to develop Company product, previously working on UE4 C++ and Unity C# SDK project
+- 🌱 I’m learning Dart/Flutter(GetX & BLoC), Kotlin, Python, SQL, NoSQL, and Embedded System (sometimes)
+- 👯 I’m looking to collaborate on That i mention above 
+- 🤔 I’m looking for help with Dart/Flutter, Python and Embedded System programming
 - 📫 How to reach me: <a href="https://www.ksana.in/Aprxty3/">ksana.in/Aprxty3</a>
 
 
