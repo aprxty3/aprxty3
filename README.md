@@ -22,13 +22,8 @@ A Software Engineer who loves to create and share projects about MicroControl Pr
 <img src="https://user-images.githubusercontent.com/60136319/176727708-4063f7d6-efc4-4ce0-b2cc-79bed5e60842.svg"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/60136319/160590435-97a8ab3a-5206-4244-b9e5-9ad5b4332965.svg"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/60136319/158674482-2720580c-2865-4c36-8c8c-da62a125f533.svg"/> &nbsp;
-<img src="https://user-images.githubusercontent.com/60136319/158674881-3ea2e54b-9737-4cd3-b41f-8e692c2b4798.svg"/> &nbsp;
 <img src="https://user-images.githubusercontent.com/60136319/158675652-38f8a493-7df8-48d3-9af5-f5709a22678d.svg"/> &nbsp;
-
-  <a href="https://swift.org/"><img align="left" alt="Swift" title="Swift" width="21px" src="https://www.shareicon.net/data/2016/07/08/117368_apple_512x512.png" /></a>
-  <a href="https://www.arduino.cc/"><img align="left" alt="Arduino" title="Arduino" width="21px" src="https://i0.wp.com/www.nesabamedia.com/wp-content/uploads/2019/07/Arduino-IDE-Logo-1.png?resize=418%2C418&ssl=1" /></a>
  
-  <br>
   
 ### Github Statistic
 <p align="left">
