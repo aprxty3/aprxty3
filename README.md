@@ -33,11 +33,7 @@ A Software Engineer who loves to create and share projects about MicroControl Pr
 </a>
 </p>
 
-### and this week, I code some...
-<a href="https://github.com/aprxty3/github-readme-stats">
+### and Overall, I code some...
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ajiprxty3&layout=compact&langs_count=10&count_private=true&v=2&theme=material-palenight&range=last_7_days" />
 </a>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aprxty3&label=Profile%20views&color=0e75b6&style=flat" alt="aprxty3" /> </p>
