@@ -6,7 +6,7 @@ A Software Engineer who loves to create and share projects about MicroControl Pr
 - 🌱 I’m learning Dart/Flutter(GetX & BLoC), NoSQL, SQL, and C++ for Embedded System (IoT/Arduino)
 - 👯 I’m looking to collaborate on That i mention above 
 - 🤔 I’m looking for help with Dart/Flutter and IoT/Arduino
-- 📫 How to reach me: <a href="https://www.ksana.in/Aprxty3/">ksana.in/Aprxty3</a>
+- 📫 For more: <a href="aprxty.vercel.app">ksana.in/Aprxty3</a>
 
 
 ### Tools and IDEs
