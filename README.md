@@ -1,11 +1,10 @@
 ### Hi! 👋 I'm Aji Prasetyo.
 
-A Software Engineer who loves to create and share projects about MicroControl Project(IoT) and Mobile Technology!  I've enjoyed C++ (for MicroController Project) & Flutter to make it the main language in creating a project.
+A Software Engineer who loves to create and share projects about MicroControl Project(IoT) and Mobile Technology!  I've enjoyed C++ (for MicroController Project), Mobile Apps with Dart(Flutter) and Kotlin(Compose), and Backend with Golang and Python to make it the main language in creating a project.
 
-- 🔭 I’m working as Mobile engineer using Dart/Flutter to develop Company product
-- 🌱 I’m learning Dart/Flutter(GetX & BLoC), NoSQL, SQL, and C++ for Embedded System (IoT/Arduino)
+- 🔭 I’m working as Software Engineer using Dart/Flutter, Kotlin, Golang and Python to develop Company product
+- 🌱 I’m learning Dart/Flutter, Kotlin, Golang, Python, NoSQL, SQL, and C++ for Embedded System (IoT/Arduino)
 - 👯 I’m looking to collaborate on That i mention above 
-- 🤔 I’m looking for help with Dart/Flutter and IoT/Arduino
 - 📫 For more: <a href="https://aprxty.my.id/">aprxty.my.id</a>
 
 
