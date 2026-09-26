@@ -5,7 +5,7 @@ A Software Engineer who loves to create and share projects about MicroControl Pr
 - 🔭 I’m working as Software Engineer using Dart/Flutter, Kotlin, Golang and Python to develop Company product
 - 🌱 I’m learning Dart/Flutter, Kotlin, Golang, Python, NoSQL, SQL, and C++ for Embedded System (IoT/Arduino)
 - 👯 I’m looking to collaborate on That i mention above 
-- 📫 For more: <a href="https://aprxty.my.id/">aprxty.my.id</a>
+- 📫 For more: <a href="https://aprxty.vercel.app/">aprxty.vercel.app</a>
 
 
 ### Tools and IDEs
